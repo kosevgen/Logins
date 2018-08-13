@@ -1,0 +1,11 @@
+E:\C#\source\repos\Logins\Logins\bin\Debug\Logins.exe.config
+E:\C#\source\repos\Logins\Logins\bin\Debug\Logins.exe
+E:\C#\source\repos\Logins\Logins\bin\Debug\Logins.pdb
+E:\C#\source\repos\Logins\Logins\obj\Debug\Logins.csprojResolveAssemblyReference.cache
+E:\C#\source\repos\Logins\Logins\obj\Debug\Logins.AboutBox1.resources
+E:\C#\source\repos\Logins\Logins\obj\Debug\Logins.Form1.resources
+E:\C#\source\repos\Logins\Logins\obj\Debug\Logins.Properties.Resources.resources
+E:\C#\source\repos\Logins\Logins\obj\Debug\Logins.csproj.GenerateResource.Cache
+E:\C#\source\repos\Logins\Logins\obj\Debug\Logins.csproj.CoreCompileInputs.cache
+E:\C#\source\repos\Logins\Logins\obj\Debug\Logins.exe
+E:\C#\source\repos\Logins\Logins\obj\Debug\Logins.pdb
